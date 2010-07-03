@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SERVICE_Configuration>
+	<ClientName>MessagingClient</ClientName>
+	<ServicePath>java</ServicePath>
+	<ServiceParameter>-cp "C:\diploma\project\messageClientApp\MessagingClient\MessagingClient.jar";"C:\diploma\project\messageClientApp\MessagingClient\IcpJni.jar";"C:\diploma\project\messageClientApp\MessagingClient\PGMJni.jar";"C:\diploma\project\messageClientApp\MessagingClient\PoCJni.jar";"C:\diploma\project\messageClientApp\MessagingClient\VoipJni.jar";"C:\diploma\project\messageClientApp\MessagingClient\WeShareJni.jar" hu.messaging.client.Client</ServiceParameter>
+	<ServiceId>+g.messagingclient</ServiceId>
+</SERVICE_Configuration>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="var" path="SDS_LIBRARY_DIR/icp/IcpJni.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:\Ericsson\SDS4.0\extension\eclipse\plugins\com.ericsson.sds_4.0.2.v20080505/doc/icp_api"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="SDS_LIBRARY_DIR/icp/PGMJni.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:\Ericsson\SDS4.0\extension\eclipse\plugins\com.ericsson.sds_4.0.2.v20080505/doc/icp_api"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="SDS_LIBRARY_DIR/icp/PoCJni.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:\Ericsson\SDS4.0\extension\eclipse\plugins\com.ericsson.sds_4.0.2.v20080505/doc/icp_api"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="SDS_LIBRARY_DIR/icp/VoipJni.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:\Ericsson\SDS4.0\extension\eclipse\plugins\com.ericsson.sds_4.0.2.v20080505/doc/icp_api"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="var" path="SDS_LIBRARY_DIR/icp/WeShareJni.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:\Ericsson\SDS4.0\extension\eclipse\plugins\com.ericsson.sds_4.0.2.v20080505/doc/icp_api"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre6"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
