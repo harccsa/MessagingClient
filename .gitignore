@@ -1,3 +1,4 @@
 *.class
 *~
 step.wizard
+*.log
