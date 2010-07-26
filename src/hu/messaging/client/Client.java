@@ -141,7 +141,7 @@ public class Client {
 		
 			ISessionDescription desc = createLocalSdp();
 			logArea.append("send INVITE to: " + profile.getIdentity() + "\n");
-			session.start("sip:alice@ericsson.com", desc, profile.getIdentity(), SdpFactory.createIMSContentContainer());
+			session.start("sip:dialog@192.168.1.102:5070", desc, profile.getIdentity(), SdpFactory.createIMSContentContainer());
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
